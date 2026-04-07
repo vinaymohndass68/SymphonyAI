@@ -1,0 +1,7 @@
+{
+  "name": "SymphonyAI",
+  "description": "Transform your voice into a professionally produced song using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
